@@ -1,5 +1,3 @@
-# serenify
-
 # **Serenify: AI-Powered Mental Health Support Chatbot** 🤖💙  
 
 Serenify is an **AI-powered mental health chatbot** designed to provide **emotional support, stress management tips, and self-care recommendations** through intelligent conversation. Built with **Spring Boot (Java), OpenAI's GPT, IBM Watson NLP, and MongoDB/MySQL**, Serenify aims to offer **accessible, anonymous, and stigma-free mental health assistance.**  
